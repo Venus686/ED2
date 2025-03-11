@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1741697624 source:c:\users\leonl\desktop\c++\practica1\practica1b\tadpersona.cpp
+	"tadpersona.h"
+
+1741698762 c:\users\leonl\desktop\c++\practica1\practica1b\tadpersona.h
+	<iostream>
+	<string>
+

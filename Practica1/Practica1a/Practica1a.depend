@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1741698882 source:c:\users\leonl\desktop\c++\practica1\practica1a\miconjunto.cpp
+	"miconjunto.h"
+
+1741697496 c:\users\leonl\desktop\c++\practica1\practica1a\miconjunto.h
+	<iostream>
+	"tadpersona.h"
+
+1741697496 c:\users\leonl\desktop\c++\practica1\practica1a\tadpersona.h
+	<windows.h>
+	<iostream>
+	<string>
+
