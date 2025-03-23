@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1742303585 source:c:\users\leonl\desktop\ed2\practica2\practica2\practica2.cpp
+	<iostream>
+	<cstdlib>
+	<queue>
+	"arbin.h"
+	"abb.h"
+	"Excep_Ej6.h"
+
+1742299636 c:\users\leonl\desktop\ed2\practica2\practica2\arbin.h
+	"nodoB.h"
+	"excep_arbin.h"
+
+1742299636 c:\users\leonl\desktop\ed2\practica2\practica2\nodob.h
+	<stdlib.h>
+
+1742299636 c:\users\leonl\desktop\ed2\practica2\practica2\excep_arbin.h
+	"excepcion.h"
+
+1742299636 c:\users\leonl\desktop\ed2\practica2\practica2\excepcion.h
+	<string>
+	<stdexcept>
+
+1742299636 c:\users\leonl\desktop\ed2\practica2\practica2\abb.h
+	"nodoB.h"
+	"excep_abb.h"
+	"arbin.h"
+
+1742299636 c:\users\leonl\desktop\ed2\practica2\practica2\excep_abb.h
+	"excepcion.h"
+
+1742299636 c:\users\leonl\desktop\ed2\practica2\practica2\excep_ej6.h
+	"excepcion.h"
+
+1742303609 source:c:\users\leonl\desktop\ed2\practica2\practica2\main.cpp
+
